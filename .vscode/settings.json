@@ -1,0 +1,4 @@
+{
+  "errorLens.messageBackgroundMode": "message",
+  "errorLens.enabledDiagnosticLevels": ["error", "info"]
+}
